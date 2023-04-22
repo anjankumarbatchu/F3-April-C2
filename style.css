@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.click{
+    margin-left: 45%;
+    padding: 10px 10px;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.map{
+    height: 200px;
+    width: 800px;
+    margin-left: 35%;
+    margin-top: 20px;
+}
+
+.coords{
+    display: flex;
+    align-items: center;
+    gap: 25%;
+    margin-left: 35%;
+}
